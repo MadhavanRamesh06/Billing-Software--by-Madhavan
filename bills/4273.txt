@@ -1,0 +1,22 @@
+		 Welcome
+ Bill_num: 4273
+ Customer_Name: 
+ Mobile_No: 
+======================================
+ Products		Qty		Price
+======================================		 Welcome
+ Bill_num: 4273
+ Customer_Name: vhj
+ Mobile_No: 76868
+======================================
+ Products		Qty		Price
+======================================
+ Rice:		1		40
+---------------------------------------
+ Cosmetic Tax:			Rs.0.0
+ Grocery Tax:			Rs.2.0
+ Cool Drink Tax:			Rs.0.0
+---------------------------------------
+ Total:			Rs.42.0
+---------------------------------------		     Thank You
+	     Come Again

@@ -1,0 +1,16 @@
+		 Welcome
+ Bill_num: 4668
+ Customer_Name: jksadhkj
+ Mobile_No: 897
+======================================
+ Products		Qty		Price
+======================================
+ Rice:		2		80
+---------------------------------------
+ Cosmetic Tax:			Rs.0.0
+ Grocery Tax:			Rs.4.0
+ Cool Drink Tax:			Rs.0.0
+---------------------------------------
+ Total:			Rs.84.0
+---------------------------------------		     Thank You
+	     Come Again

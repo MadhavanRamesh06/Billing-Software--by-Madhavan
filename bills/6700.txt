@@ -1,0 +1,18 @@
+		 Welcome
+ Bill_num: 6700
+ Customer_Name: Madhavan
+ Mobile_No: 9360684253
+======================================
+ Products		Qty		Price
+======================================
+ Face Wash:		2		240
+ Dhal:		1		70
+ Wheat:		1		30
+---------------------------------------
+ Cosmetic Tax:			Rs.12.0
+ Grocery Tax:			Rs.5.0
+ Cool Drink Tax:			Rs.0.0
+---------------------------------------
+ Total:			Rs.357.0
+---------------------------------------		     Thank You
+	     Come Again

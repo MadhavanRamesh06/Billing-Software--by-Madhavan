@@ -1,0 +1,16 @@
+		 Welcome
+ Bill_num: 3226
+ Customer_Name: df
+ Mobile_No: 33
+======================================
+ Products		Qty		Price
+======================================
+ Coke:		2		120
+---------------------------------------
+ Cosmetic Tax:			Rs.0.0
+ Grocery Tax:			Rs.0.0
+ Cool Drink Tax:			Rs.6.0
+---------------------------------------
+ Total:			Rs.126.0
+---------------------------------------		     Thank You
+	     Come Again
